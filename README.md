@@ -15,7 +15,4 @@ I am now dedicated to improving my knowledge and skills in the data field to hel
 * Excel
 
 You can contact me by e-mail (daniribeirof@gmail.com) and you can also find me at:
-
-[GitHub](https://github.com/daniribeirof)
-
 [Linkedin](https://www.linkedin.com/in/danielarfonseca/)
