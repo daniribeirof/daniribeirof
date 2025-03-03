@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi! My name is Daniela.
 
-<!--
-**daniribeirof/daniribeirof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brazilian data analyst based in Barcelona.
+------------
 
-Here are some ideas to get you started:
+I have a degree in Architecture and Urban Planning and a few years ago, after having the experience of using urban, demographic and real estate market data in some projects, I became very interested in the incredible world of data. I then decided to make a career transition and have been dedicated to data analysis for over two years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am now dedicated to improving my knowledge and skills in the data field to help companies extract increasingly valuable and efficient insights through data interpretation and visualization.
+
+## Technical Skills:
+Python SQL PostgreSQL PowerBI Looker Excel
+
+You can contact me by e-mail:
+daniribeirof@gmail.com
+
+And you can also find me at:
+[GitHub](https://github.com/daniribeirof)
+[Linkedin](https://www.linkedin.com/in/danielarfonseca/)
