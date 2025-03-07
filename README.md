@@ -8,10 +8,9 @@ I am now dedicated to improving my knowledge and skills in the data field to hel
 
 ## Technical Skills:
 * Python
-* SQL
-* PostgreSQL
+* SQL (PostgreSQL, BigQuery)
 * PowerBI
-* Looker
+* Looker Studio
 * Excel
 
 You can contact me by e-mail (daniribeirof@gmail.com) and you can also find me at:
